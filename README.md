@@ -15,6 +15,9 @@ O sistema de coleta de feedback aprimorado é responsável por coletar feedback 
 O sistema de aprendizado de máquina para adaptação dinâmica tem foco na adaptação dinâmica das respostas com base nos feedbacks de usuários e suas responsabilidades incluem processar o feedback, analisando áreas de instatisfação e respostas incoerentes, adaptação de respostas, que utiliza algoritmos NLP para ajustar dinamicamente com informações mais adequadas e refinamento gradual, que permite uma adaptação mais suave na resposta.
 A implementação de módulos de conhecimento dinâmico visa criar módulos de conhecimento que possam ser atualizados de forma independente das respostas do modelo principal, ou seja, permitem separação do conhecimento em módulos específicos(exemplo: banco de dados, informações históricas). Além disso, deve implementar mecanismos para atualizar e enriquecer os módulos de conhecimento de forma independente, garantindo que as informações estejam sempre automatizada. Outro ponto importante, é lembrar que esses módulos devem ser integrados às respostas do modelo principal para permitir que o sistema acesse informações atualizadas conforme necessário.
 
+
+<img src="Untitled - Frame 1.jpg">
+
 ## Conclusão
 
 Dessa forma, considerando que a implementação de um sistema de Aprendizado Contínuo em sistemas conversacionais é fundamental para garantir que esses sistemas permaneçam relevantes e precisos diante das mudanças contínuas no ambiente. A abordagem proposta se concentra na coleta aprimorada de feedback do usuário e na adaptação dinâmica das respostas, em vez de realizar atualizações drásticas no modelo principal. Isso permite uma resposta mais rápida às mudanças e ao feedback do usuário, mantendo o sistema relevante e preciso.
